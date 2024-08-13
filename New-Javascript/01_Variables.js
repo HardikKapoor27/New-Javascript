@@ -5,7 +5,7 @@ accountCity = "Gwalior"
 
 accountEmail = "hk@gmail.com"
 accountPassword = "54321"
-accountCity = "New Delhi"
+accountCity = "Gurugram"
 
 console.log(accountId);
 
