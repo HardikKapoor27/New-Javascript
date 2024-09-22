@@ -35,7 +35,7 @@ const myFunction = function() {
 console.log(typeof bigNumber);
 
 /*
-Return type of variables in JavaScript
+Return type of variables in JavaScript:
 1) Primitive Datatypes
        Number => number
        String  => string
